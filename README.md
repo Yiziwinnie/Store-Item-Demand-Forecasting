@@ -1,4 +1,5 @@
-# Store Item Demand Forecasting - Time Series Analysis & Forecasting
+# Store Item Demand Forecasting 
+# Time Series Analysis & Forecasting
 
 A group project with @Patrick Maguire, Akbar Aidarov,Andrew Relstab
 
