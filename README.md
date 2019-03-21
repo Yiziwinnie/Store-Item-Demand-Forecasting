@@ -2,3 +2,8 @@
 Time Series Analysis 
 group project with @Patrick Maguire, Akbar Aidarov,Andrew Relstab
 
+## PDF
+The pdf includes non-techinical and techinical report. It inlcudes three type of model, SRIMA model, GARCH model, and Regression model with ARMA error in the technical report.
+
+## R_code
+The code part includes the model each group member worked on.
