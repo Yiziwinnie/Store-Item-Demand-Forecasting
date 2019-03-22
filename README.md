@@ -1,7 +1,13 @@
-# Store Item Demand Forecasting 
+
 ### Time Series Analysis & Forecasting
 
-A group project with @Patrick Maguire, Akbar Aidarov,Andrew Relstab
+@Patrick Maguire @ Akbar Aidarov @ Andrew Relstab on March 17, 2019
+
+>Tool: Python<br/>
+Time Series Models: ARMA, SARIMA,GARCH model,and Regression model with ARMA error <br/>
+
+
+
 
 ## PDF
 The pdf includes non-technical and technical report. It includes three types of model, SRIMA model, GARCH model, and Regression model with ARMA error in the technical report.
